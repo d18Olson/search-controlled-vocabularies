@@ -1,5 +1,5 @@
 # search-controlled-vocabularies
-DataONE’s Arctic Data Center controlled vocabulary about ecosystem concepts
+DataONE’s Arctic Data Center project on controlled vocabularies concerning ecosystem concepts.
 Project Goals include: 
 Compiling relevent "external" vocabularies and intergrating them into the current ECSO ontology 
 Identifying poorly constructed vocabularies to incorporate 
